@@ -61,8 +61,11 @@ html {
 }
 
 .qr {
-    margin: 20px 0;
+    width: 200px;
+    display: block;
+    margin: 20px auto;
 }
+
 
 .donation-buttons button {
     padding: 10px 20px;
